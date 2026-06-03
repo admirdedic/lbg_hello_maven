@@ -27,4 +27,8 @@ public class App
     public static String sayHelloToSomeone(String name){
         return "Hello " + name ;
     }
+
+    public static String itIsNearlyBreaktime(){
+        return "Webhook";
+    }
 }
